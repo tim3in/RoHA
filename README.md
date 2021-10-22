@@ -16,5 +16,5 @@ This is the firmware source code that you need to compile and upload on sensor n
 To run this application, first install XAMPP server, and then copy paste this application folder to htdocs folder of web server. Before running update settings in getData.php file as described in this documentation. Then execute the application in web browser.
 
 
-## RoHA Edge Impulse Model Zip Library
+## RoHA Edge Impulse Model Library
 Use this model in your Arduino IDE. However you are adviced to create your own models as specified in the documentation. This model may not work perfectly as it contains less data and only one voice.
